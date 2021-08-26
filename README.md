@@ -1,4 +1,4 @@
-![baner](images/baner.png)
+![baner](images/baner_new.png)
 ## Hello World 👋
 
 <!--
