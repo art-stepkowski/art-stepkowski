@@ -1,17 +1,12 @@
 ![baner](images/baner.gif)
 ## Hello World 👋
+![](https://visitor-badge.glitch.me/badge?page_id=art-stepkowski.art-stepkowski)
+I'm Artur, backend java/python developer from Poland. 
 
-<!--
-**art-stepkowski/art-stepkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 🔭 I’m currently working on  -->
+- 🌱 I’m currently learning DDD and microservices
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about java
+<!-- - 📫 How to reach me: ... -->
+- ⚡ Fun fact: I'm the father of triplets
