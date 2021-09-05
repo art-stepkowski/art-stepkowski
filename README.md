@@ -3,9 +3,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=art-stepkowski.art-stepkowski)
 <br/>
 <br/>
-I'm Artur, backend java/python developer from Poland with over the 15 years of experience with commercial projects. I started my adventure with programming when I was 10 yers old and my father bought first polish IT magazine "Bajtek". I wrote code in Basic (on ZX Spectrum), Pascal, Delphi, VisualBasic, C, C++, VB.net, C#, but now I think python and Java are the best. 😉 
+I'm Artur, backend java/python developer from Poland with over the 15 years of experience with commercial projects. I started my adventure with programming when I was 10 years old and my father bought first polish IT magazine "Bajtek". I wrote code in Basic (on ZX Spectrum), Pascal, Delphi, VisualBasic, C, C++, VB.net, C#, but now I think python and Java are the best. 😉 
 
-As whoever does not move forward, regresses, my interests are directed towards DDD, microservices and issues related to AI, Machine Learning, Data Science.
+As whoever does not move forward, regresses, my interests are directed towards DDD, microservices and issues related to AI, Machine Learning and Data Science.
 
 <!-- - 🔭 I’m currently working on  -->
 - 🌱 I’m currently learning **DDD** and **microservices**
@@ -41,3 +41,7 @@ As whoever does not move forward, regresses, my interests are directed towards D
 
 
 ## 📫 How to reach me
+
+[![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/artiste_dev/)
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-stepkowski/)
+[![Ohmydev badge](https://img.shields.io/badge/ohmydev.pl-DB7093?style=for-the-badge&logoColor=white)](https://ohmydev.pl/users/artur_st)
