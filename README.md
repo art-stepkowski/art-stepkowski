@@ -3,8 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=art-stepkowski.art-stepkowski)
 <br/>
 <br/>
-I'm Artur, backend java/python developer from Poland with over the 15 years of experience with commercial projects. I developed software utilizing many technologies, and currently specialize in Java 11. Wildfly application server (REST WS) and PostgreSQL DB are the main components of the technological stack with which I have the most experience, but I think nothing stands on my way of learning new technologies.
-I can work both in a team and independently. I'm no stranger to the implementation of projects using agile software development (SCRUM, test-driven development).
+I'm Artur, backend java/python developer from Poland with over the 15 years of experience with commercial projects. I started my adventure with programming when I was 10 yers old and my father bought first polish IT magazine "Bajtek". I wrote code in Basic (on ZX Spectrum), Pascal, Delphi, VisualBasic, C, C++, VB.net, C#, but now I think python and Java are the best. 😉 
 
 As whoever does not move forward, regresses, my interests are directed towards DDD, microservices and issues related to AI, Machine Learning, Data Science.
 
