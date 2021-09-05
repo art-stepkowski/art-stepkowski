@@ -45,3 +45,4 @@ As whoever does not move forward, regresses, my interests are directed towards D
 [![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/artiste_dev/)
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-stepkowski/)
 [![Ohmydev badge](https://img.shields.io/badge/ohmydev.pl-DB7093?style=for-the-badge&logoColor=white)](https://ohmydev.pl/users/artur_st)
+[![dev.to badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/art_stepkowski)
