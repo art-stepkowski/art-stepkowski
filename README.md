@@ -3,7 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=art-stepkowski.art-stepkowski)
 <br/>
 <br/>
-I'm Artur, backend java/python developer from Poland with over the 15 years of experience with commercial projects. I started my adventure with programming when I was 10 years old and my father bought first polish IT magazine "Bajtek". I wrote code in Basic (on ZX Spectrum), Pascal, Delphi, VisualBasic, C, C++, VB.net, C#, but now I think python and Java are the best. 😉 
+I'm Artur, backend java/python developer from Poland with two decades of experience with commercial projects. I started my adventure with programming when I was 10 years old and my father bought first polish IT magazine "Bajtek". I wrote code in Basic (on ZX Spectrum), Pascal, Delphi, VisualBasic, C, C++, VB.net, C#, but now I think python and Java are the best. 😉 
 
 As whoever does not move forward, regresses, my interests are directed towards DDD, microservices and issues related to AI, Machine Learning and Data Science.
 
